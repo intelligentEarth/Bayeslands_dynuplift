@@ -1,4 +1,3 @@
-pyBadlands/
 AUS/
 Dynamic_Topograph/
 Examples/*/results_*
@@ -35,3 +34,10 @@ doc/_build/
 tags
 doc/env/
 npm-debug.log
+
+
+pyBadlands/libUtils/*.so
+pyBadlands/libUtils/*.o
+pyBadlands/libUtils/*
+pyBadlands/simulation/*.pyc
+pyBadlands/*/*.pyc
